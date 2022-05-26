@@ -1,0 +1,22 @@
+{
+  "name": "reeler",
+  "version": "1.0.0",
+  "description": "Application for people who love to fish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amber-Robeck/reeler.git"
+  },
+  "author": "reelerfishing.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amber-Robeck/reeler/issues"
+  },
+  "homepage": "https://github.com/Amber-Robeck/reeler#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
